@@ -1,4 +1,4 @@
-@media only screen and (min-width: 426px) {
+@media only screen and (min-width: 480px) {
 
     html{
         font-family: "Poppins";
@@ -398,7 +398,7 @@
 
 /* Mobile Resolution Website */
 
-@media only screen and (max-width: 425px){
+@media only screen and (max-width: 480px){
 
     html{
         overflow-x:hidden;
@@ -435,6 +435,10 @@
     }
     .introtext{
         position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
         text-align: center;
         font-weight: 600;
         font-family: "Poppins";
@@ -443,14 +447,12 @@
     #half{
         font-size: 2.5rem;
         margin-top: 25%;
-        margin-left: 12%;
         height: 25%;
         color: rgba(62, 62, 62, 0.642);
     }
 
     #human{
         height: 30%;
-        margin-left: 19%;
         font-size: 3rem;
         margin-top: 55%;
         color: #000000;
@@ -463,7 +465,7 @@
         display: flex;
         position: relative;
         width: 100%;
-        height: 650px;
+        height: 700px;
         margin-top: 11%;
 
         flex-grow: 1; 
@@ -478,7 +480,7 @@
     /* about  stuff starts */
     
     .about{
-        height: 650px;
+        height: 700px;
         background-color:#EAEAEA;
     }
     
