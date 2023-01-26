@@ -1,4 +1,4 @@
-@media only screen and (min-width: 450px) {
+@media only screen and (min-width: 460px) {
 
     html{
         font-family: "Poppins";
@@ -398,7 +398,7 @@
 
 /* Mobile Resolution Website */
 
-@media only screen and (max-width: 450px){
+@media only screen and (max-width: 460px){
 
     html{
         overflow-x:hidden;
