@@ -1,4 +1,9 @@
-@media only screen and (min-width: 480px) {
+/* @font-face {
+    font-family:"Gilroy";
+    src: url("public/gilroy") format("truetype");
+  } */
+
+  @media only screen and (min-width: 480px) {
 
     html{
         font-family: "Poppins";
@@ -37,6 +42,7 @@
         text-align: center;
         font-weight: 600;
         font-family: "Poppins";
+        /* font-family:"Gilroy-Medium", "Poppins"; */
         font-size: 6rem;
     }
     #human{
@@ -56,6 +62,7 @@
 
     .commonbox{
         font-family: "Poppins";
+        /* font-family:"Gilroy-Medium", "Poppins"; */
         display: flex;
         position: relative;
         width: 100%;
@@ -106,6 +113,7 @@
     /* statement stuff starts */
     .statement{
         font-family: "Poppins";
+        /* font-family:"Gilroy-Medium", "Poppins"; */
         display: flex;
         position: relative;
         width: 100%;
@@ -323,6 +331,13 @@
         margin-left: 60%;
     }
 
+    .text-link {
+        color: inherit;
+        text-decoration: inherit;
+        margin-right: 50px;
+    }
+    
+
     .navitems{
         margin-left: 10%;
         color: #000000;
@@ -352,6 +367,10 @@
         color: rgb(0, 0, 0);
     }
     /* nav bar and footer stuff ends */
+
+    .blank{
+        height: 200px;
+    }
 
 }
 
@@ -747,6 +766,15 @@
         margin-left: 5%;
         color: #000000;
     }
+
+    .text-link {
+        font-size: 1rem;
+        margin-left: 5%;
+        margin-bottom: 5%;
+        color: #000000;
+        color: inherit;
+        text-decoration: inherit;
+    }
     
     .footer-padding {
         padding-top: 4%;
@@ -773,4 +801,12 @@
         color: rgb(0, 0, 0);
     }
     /* nav bar and footer stuff ends */
+
+    .blank{
+        height: 100px;
+    }
+
+    .blank2{
+        height: 100px;
+    }
 }
