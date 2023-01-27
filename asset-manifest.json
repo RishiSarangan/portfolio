@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/portfolio2/static/js/main.211dd3c9.js",
+    "main.js": "/portfolio2/static/js/main.70fd6b3f.js",
     "static/media/rishibw.png": "/portfolio2/static/media/rishibw.449893cebdd3a4cc7e2d.png",
     "static/media/blog_mockup.png": "/portfolio2/static/media/blog_mockup.500b98eed5c79de01bcb.png",
     "static/media/chat_mockup.png": "/portfolio2/static/media/chat_mockup.1389e3147e15adad51cb.png",
@@ -8,9 +8,9 @@
     "static/media/todo_mac.png": "/portfolio2/static/media/todo_mac.522071268623c078221c.png",
     "static/media/techno.png": "/portfolio2/static/media/techno.fddbc0a13145d55dca21.png",
     "index.html": "/portfolio2/index.html",
-    "main.211dd3c9.js.map": "/portfolio2/static/js/main.211dd3c9.js.map"
+    "main.70fd6b3f.js.map": "/portfolio2/static/js/main.70fd6b3f.js.map"
   },
   "entrypoints": [
-    "static/js/main.211dd3c9.js"
+    "static/js/main.70fd6b3f.js"
   ]
 }

@@ -3,7 +3,7 @@
     src: url("public/gilroy") format("truetype");
   } */
 
-  @media only screen and (min-width: 480px) {
+@media only screen and (min-width: 480px) {
 
     html{
         font-family: "Poppins";
@@ -61,6 +61,7 @@
     /* intro  stuff ends */
 
     .commonbox{
+        border-radius: 10px;
         font-family: "Poppins";
         /* font-family:"Gilroy-Medium", "Poppins"; */
         display: flex;
@@ -270,6 +271,7 @@
 
     /* contact stuff starts  */
     .contact{
+        border-radius: 10px;
         background-color: #EAEAEA;
         font-family: "Poppins";
         display: flex;
@@ -480,6 +482,7 @@
     /* intro  stuff ends */
     
     .commonbox{
+        border-radius: 10px;
         font-family: "Poppins";
         display: flex;
         position: relative;
@@ -692,6 +695,7 @@
     
     /* contact stuff starts  */
     .contact{
+        border-radius: 10px;
         background-color: #EAEAEA;
         font-family: "Poppins";
         display: flex;
