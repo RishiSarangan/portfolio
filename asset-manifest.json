@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.js": "/portfolio2/static/js/main.70fd6b3f.js",
-    "static/media/rishibw.png": "/portfolio2/static/media/rishibw.449893cebdd3a4cc7e2d.png",
+    "main.js": "/portfolio2/static/js/main.a31dc0d3.js",
+    "static/media/moneyball.png": "/portfolio2/static/media/moneyball.4d477ed637cb5385e3bd.png",
+    "static/media/sherlock.png": "/portfolio2/static/media/sherlock.618354009f06ad439293.png",
+    "static/media/pirate.png": "/portfolio2/static/media/pirate.9ad9014da6f59f9b003e.png",
+    "static/media/upahar.jpg": "/portfolio2/static/media/upahar.3ea33f31aafc4a1d6c51.jpg",
+    "static/media/sos.jpg": "/portfolio2/static/media/sos.b721d3cac688c4d1a59a.jpg",
+    "static/media/knight.jpg": "/portfolio2/static/media/knight.c96dfd92e8eac169af0f.jpg",
+    "static/media/rishibw.png": "/portfolio2/static/media/rishibw.d1de38943addc08e8b13.png",
     "static/media/blog_mockup.png": "/portfolio2/static/media/blog_mockup.500b98eed5c79de01bcb.png",
     "static/media/chat_mockup.png": "/portfolio2/static/media/chat_mockup.1389e3147e15adad51cb.png",
+    "static/media/300dpi_black.png": "/portfolio2/static/media/300dpi_black.ca1cb07d029c189f72e0.png",
     "static/media/300dpi.png": "/portfolio2/static/media/300dpi.c40663d134f28b47e38c.png",
     "static/media/todo_mac.png": "/portfolio2/static/media/todo_mac.522071268623c078221c.png",
+    "static/media/btd.png": "/portfolio2/static/media/btd.3593b77554a22de149c2.png",
+    "static/media/techno_black.png": "/portfolio2/static/media/techno_black.3a35282321a7e68e02e6.png",
     "static/media/techno.png": "/portfolio2/static/media/techno.fddbc0a13145d55dca21.png",
+    "static/media/sos.png": "/portfolio2/static/media/sos.2d77a8dd324ad8bb4f8e.png",
+    "static/media/btd3.png": "/portfolio2/static/media/btd3.76c0ac4cb0d7e9e2f912.png",
+    "static/media/tto.png": "/portfolio2/static/media/tto.1c71d744501993f1b0ef.png",
     "index.html": "/portfolio2/index.html",
-    "main.70fd6b3f.js.map": "/portfolio2/static/js/main.70fd6b3f.js.map"
+    "main.a31dc0d3.js.map": "/portfolio2/static/js/main.a31dc0d3.js.map"
   },
   "entrypoints": [
-    "static/js/main.70fd6b3f.js"
+    "static/js/main.a31dc0d3.js"
   ]
 }
